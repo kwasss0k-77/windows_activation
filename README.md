@@ -2,15 +2,17 @@
 
 ---
 
-## 🇷🇺 Русский (ru-RU)
-Этот репозиторий содержит .bat файл с инструкцией по активации Windows.
-
 ## 🇺🇸 English (en-US)
 This repository contains a .bat file with instructions on how to activate Windows.
 
 ---
 
-### 🌐 Other Languages / Другие языки
+### 🌐 Other languages / Другие языки
+
+<details>
+<summary>🇷🇺 Русский (ru-RU)</summary>
+Этот репозиторий содержит .bat файл с инструкцией по активации Windows.
+</details>
 
 <details>
 <summary>🇪🇸 Español (es-ES)</summary>
